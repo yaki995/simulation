@@ -3,7 +3,7 @@
 ## 環境構築
 Dockerビルド
 1. git@github.com:yaki995/simulation.git
-2.docker-compose up -d --build
+2. docker-compose up -d --build
 
 ## 使用技術(実行環境)
 - 例) Laravel 8.x(言語やフレームワーク、バージョンなどが記載されていると良い)
