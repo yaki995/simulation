@@ -19,6 +19,7 @@ Laravel環境構築
 ・MySQL8.0.26
 
 ## ER図
+![ER](https://github.com/user-attachments/assets/b73b56c4-c655-4e07-962a-9fd125d149db)
 
 
 ## URL
