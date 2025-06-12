@@ -21,4 +21,6 @@ Route::get('/', function () {
 
 Route::get('/',[ListController::class, 'list']);
 
+Route::get('/',[ProductController::class,'products.index']);
+
 Route::resource('products', ProductController::class);
